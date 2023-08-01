@@ -1,0 +1,4 @@
+rm *.rpyc
+cd beatscripts
+rm *.rpyc
+cd -

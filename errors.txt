@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label town is defined twice, at File "game/beatscripts/a-image.rpyc", line 1:
+
+and File "game/beatscripts/a_image.rpy", line 1:
+label town:
+
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Sun Jul 30 15:57:20 2023
